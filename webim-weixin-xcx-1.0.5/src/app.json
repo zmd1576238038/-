@@ -1,0 +1,23 @@
+{
+	"pages": [
+		"pages/login/login",
+		"pages/main/main",
+		"pages/chatroom/chatroom",
+		"pages/index/index",
+		"pages/register/register",
+		"pages/add_new/add_new",
+		"pages/chat/chat",
+		"pages/settings/settings",
+		"pages/groups/groups",
+		"pages/inform/inform",
+		"pages/friend_info/friend_info",
+		"pages/add_groups/add_groups",
+		"pages/groupChatRoom/groupChatRoom",
+		"pages/groupSetting/groupSetting"
+	],
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTextStyle": "black"
+	}
+}

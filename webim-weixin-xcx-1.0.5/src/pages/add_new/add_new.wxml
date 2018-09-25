@@ -1,0 +1,8 @@
+<view class="search_input">
+	<view>
+		<input placeholder="好友名称" placeholder-style="color:#CFCFCF;line-height:20px;font-size:12px;" auto-focus bindinput="bindFriendName"></input>
+	</view>
+	<!-- <text bindtap="add_friend">发送申请</text> -->
+</view>
+<button bindtap="add_friend">发送申请</button>
+
